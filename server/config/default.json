@@ -1,0 +1,4 @@
+{
+  "jwtPrivateKey": "private",
+  "db": "mongodb+srv://rahul:rahul@rahulscluster.hyipjcz.mongodb.net/?retryWrites=true&w=majority"
+}
